@@ -1,1 +1,1 @@
-# Полный русификатор для игры USC: Counterforce. Заменяет венгерский язык (Magyar) на русский. Инструкция по установке в Release.
+# Полный русификатор для игры USC: Counterforce. Заменяет венгерский язык (magyar) на русский. Инструкция по установке в [Releases](https://github.com/Doroko-Dorokovich/Rusificator_USCCounterforce/releases).
